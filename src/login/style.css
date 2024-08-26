@@ -1,0 +1,13 @@
+.login-form{
+    margin-left: 20%;
+    margin-top: 30%;
+    width: 100%;
+}
+.login-container{
+    position: absolute;
+    top: 10%;
+}
+.login-container img{
+    width: 100%;
+    border-radius: 15px;
+}
